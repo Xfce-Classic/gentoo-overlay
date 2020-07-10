@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>xfceclassic</name>
+		<description>A fork of some Xfce packages to restore classic Xfce4 behavior (no CSD, etc.)</description>
+		<homepage>https://github.com/Xfce-Classic</homepage>
+		<owner>
+			<email>shawn@anastas.io</email>
+		</owner>
+		<source type="git">https://github.com/Xfce-Classic/gentoo-overlay</source>
+	</repo>
+</repositories>
