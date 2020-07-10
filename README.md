@@ -14,7 +14,7 @@ The easiest way to get started is using `eselect repository`:
 
 You can then install libxfce4ui-nocsd like this:
 ```
-# emerge -pav '>=libxfce4ui-4.15.3::xfceclassic'
+# emerge -av '>=libxfce4ui-4.15.3::xfceclassic'
 ```
 
 Notes
