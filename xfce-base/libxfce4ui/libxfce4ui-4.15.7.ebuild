@@ -7,7 +7,7 @@ inherit xdg-utils vala
 
 DESCRIPTION="Unified widget and session management libs for Xfce (-nocsd fork)"
 HOMEPAGE="https://github.com/Xfce-Classic"
-SRC_URI="https://github.com/Xfce-Classic/libxfce4ui-nocsd/releases/download/4.15.5/libxfce4ui-4.15.6.tar.bz2"
+SRC_URI="https://github.com/Xfce-Classic/libxfce4ui-nocsd/releases/download/4.15.7/libxfce4ui-4.15.7.tar.bz2"
 
 RESTRICT="mirror"
 
